@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.exe
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.deps.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.runtimeconfig.dev.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\bin\Debug\netcoreapp3.1\Morse.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.AssemblyInfo.cs
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\semana5\Morse\Morse\obj\Debug\netcoreapp3.1\Morse.genruntimeconfig.cache

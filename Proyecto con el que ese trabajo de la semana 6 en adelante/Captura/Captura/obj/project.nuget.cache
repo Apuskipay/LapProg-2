@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W/H4JAYYgwUb/I553yPLf2cc5XCYsUzWlYdyWVKJjizeXFmECB5Fr42YR+Hb4trgXj4nT+0b12cOC5fGVHDtdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\OneDrive - INTEC\\4to Trimestre IDS\\Programacion Lab\\Semana 6\\Captura\\Captura\\Captura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

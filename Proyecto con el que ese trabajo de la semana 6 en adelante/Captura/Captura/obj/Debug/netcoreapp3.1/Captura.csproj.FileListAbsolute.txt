@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.exe
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.deps.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.runtimeconfig.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.runtimeconfig.dev.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\bin\Debug\netcoreapp3.1\Captura.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.AssemblyInfo.cs
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana 6\Captura\Captura\obj\Debug\netcoreapp3.1\Captura.genruntimeconfig.cache

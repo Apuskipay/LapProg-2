@@ -1,0 +1,24 @@
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.csprojAssemblyReference.cache
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfo.cs
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.exe
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.deps.json
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.json
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.dev.json
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\danie\Documents\INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.exe
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.deps.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.runtimeconfig.dev.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\bin\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.AssemblyInfo.cs
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\Semana4\Programa1\Programa1\obj\Debug\netcoreapp3.1\Programa1.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Morse2": {
+      "commandName": "Project",
+      "commandLineArgs": "SOS"
+    }
+  }
+}
