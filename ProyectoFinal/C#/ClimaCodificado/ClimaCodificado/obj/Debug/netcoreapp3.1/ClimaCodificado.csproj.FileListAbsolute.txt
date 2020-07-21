@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.exe
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.deps.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.runtimeconfig.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.runtimeconfig.dev.json
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\bin\Debug\netcoreapp3.1\ClimaCodificado.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.AssemblyInfo.cs
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.dll
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.pdb
+C:\Users\danie\OneDrive - INTEC\4to Trimestre IDS\Programacion Lab\ProyectoFinal\C#\ClimaCodificado\ClimaCodificado\obj\Debug\netcoreapp3.1\ClimaCodificado.genruntimeconfig.cache
